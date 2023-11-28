@@ -1,0 +1,11 @@
+print("Hello world", 6, 16, sep=", ", end=", program is written by Ihor\n\t")
+print("John's book")
+print('John\'s book\\')
+print(8 + 8)
+print(min(5, 8, -5, 10.5, -8, 16))
+print(max(5, 8, -5, 10.5, -8, 16))
+#action + - * / % (** підносить до ступеня)
+print(2 ** 4)
+print(abs(-5))#модуль числа
+print(pow(3, 5))
+print(round(10.52425))
